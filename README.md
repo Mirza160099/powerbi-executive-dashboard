@@ -1,8 +1,9 @@
 # Power BI Executive Dashboard
 
-A portfolio project demonstrating **Power Query, star-schema modelling, DAX, KPI architecture, business variance analysis, drilldowns and executive storytelling**.
 
-> **Data note:** All business data is synthetic. No employer/customer commercial information is included.
+## Demo Preview
+
+![Power BI dashboard preview](assets/dashboard-preview.png)
 
 ## Business Problem
 
